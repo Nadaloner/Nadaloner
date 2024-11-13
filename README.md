@@ -1,6 +1,5 @@
 # 👋 Benvenuti nel mio GitHub!
 
-Sono uno sviluppatore con esperienza in diversi linguaggi di programmazione e tecnologie. Amo esplorare nuovi strumenti e condividere i miei progetti con la community. Ecco un po' di più su di me e le mie competenze:
 
 ---
 
@@ -24,21 +23,20 @@ Sono uno sviluppatore con esperienza in diversi linguaggi di programmazione e te
 
 ## 📈 Statistiche del profilo
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuoUsername&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuoUsername&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadaloner&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadaloner&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🌐 Link Utili
 
-- [LinkedIn](https://www.linkedin.com/in/tuoUsername)  
-- [Sito web personale](https://tuoWebsite.com)
+
 
 ---
 
 ## 🔥 Contatore di visite
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=tuoUsername&label=Visite&color=blue&style=flat-square" alt="Contatore di visite" />
 </p>
 
